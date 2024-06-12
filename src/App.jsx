@@ -5,6 +5,10 @@ function App() {
   const mapRef = useRef(null);
 
   useEffect(() => {
+    window.addEventListener('load', function () {
+      document.body.classList.add('loaded');
+    });
+
     if (mapRef.current) {
       var TOKEN_ID = "b20ab09a6db83c06c606d07a6a78fa51cf57678b";
       var map = new google.maps.Map(mapRef.current, {
@@ -148,6 +152,10 @@ function App() {
 
   return (
     <div id="container">
+      <div id="loading">
+        <div class="loader"></div>
+      </div>
+
       <div id="main">
         <div id='map' ref={mapRef}></div>
       </div>
