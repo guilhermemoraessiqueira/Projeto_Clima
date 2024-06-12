@@ -37,5 +37,7 @@ O projeto está em fase de desenvolvimento e será atualizado continuamente.
 
 [Isabella Augusto Bonezi](https://github.com/IsabellaBonezi)
 
+[Guilherme Mendez Martinez Costa](https://github.com/GuilhermeMendez)
+
 
 
