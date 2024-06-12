@@ -33,7 +33,4 @@ O projeto está em fase de desenvolvimento e será atualizado continuamente.
 
 [Guilherme Moraes Siqueira](https://github.com/guilhermemoraessiqueira)
 
-[Arthur de Menezes Garcia João](https://github.com/art3303)
-
-[Guilherme Mendez Martinez Costa](https://github.com/GuilhermeMendez)
 
