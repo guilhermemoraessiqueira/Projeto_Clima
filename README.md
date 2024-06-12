@@ -29,8 +29,11 @@ O projeto está em fase de desenvolvimento e será atualizado continuamente.
 
 ## Equipe de desenvolvimento
 
-Matheus Benasse Grecchi
-Guilherme Moraes Siqueira
-Arthur de Menezes Garcia João
-Guilherme Mendez Martinez Costa
+[Matheus Grecchi Benasse](https://github.com/1Matzh)
+
+[Guilherme Moraes Siqueira](https://github.com/guilhermemoraessiqueira)
+
+[Arthur de Menezes Garcia João](https://github.com/art3303)
+
+[Guilherme Mendez Martinez Costa](https://github.com/GuilhermeMendez)
 
