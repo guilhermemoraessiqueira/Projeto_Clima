@@ -35,4 +35,6 @@ O projeto está em fase de desenvolvimento e será atualizado continuamente.
 
 [Arthur de Menezes Garcia João](https://github.com/art3303)
 
+[Isabella Augusto Bonezi] (https://github.com/IsabellaBonezi)
+
 
